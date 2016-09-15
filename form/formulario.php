@@ -6,7 +6,7 @@
     <body>
         <?php 
         
-            echo "<h1>BIENVENIDO !!!</h1>"
+            echo "<h1>My TO-DO List</h1>"
         ?>
     </body>
 </html>
