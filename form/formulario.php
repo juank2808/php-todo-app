@@ -1,12 +1,6 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        
-    </head>
-    <body>
-        <?php 
-        
-            echo "<h1>My TO-DO List</h1>"
-        ?>
-    </body>
-</html>
+<?php
+    //obtenemos los vallos del formulario
+    
+    $user=$_POST['user'];
+    $pass=$_POST['psswd'];
+?>
