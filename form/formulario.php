@@ -46,10 +46,11 @@
    }
    
 ?>
-<form action="" method="" class="login">
+<form action="hola.html" method="post" class="login">
     <div><label>Usuario: </label>
     <input type="text" name="user"/>
     <label>Contrase&ntilde;a</label>
+    <input type="password" name=""/>
     <input type="submit" value="Submit"/>
     </div>
 </form>
