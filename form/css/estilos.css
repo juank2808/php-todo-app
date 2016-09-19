@@ -1,3 +1,35 @@
-#container {
-    background-color: red
+body{
+ font-family: "Open Sans", Arial, sans-serif;
+ font-size: 14px;
+ font-weight: 350;
+ color: #333;
+ background-size: cover;
+ background-image: url(http://www.interbel.es/wp-content/uploads/2014/11/todolist.jpg);
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ 
+}
+form{
+ width: 470px;
+ padding: 0 6px;
+ margin: 0 auto;
+ 
+}
+input{
+ width: 98%;
+ height: 40px;
+ font: 300 24px "Open Sans", Arial, sans-serif;
+ margin: 10px 0 10px 0;
+}
+input[type=submit]{
+ background-color:#FF9900;
+ height:50px;
+ width:98%;
+ border:none;
+ font-weight:400;
+ letter-spacing:2px;
+ color:#FFFFFF;
+}
+label{
+ 
 }
