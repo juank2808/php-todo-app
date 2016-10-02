@@ -15,7 +15,7 @@ crossorigin="anonymous">
         <br/>
         <br/>
         <br/>
-<form action="reciDatos.php" method="post" >
+<form action="myList.php" method="post" >
      <div class="form-group" >
          <label for="inputUser" class="text-info">Usuario</label>
          <input type="text" class="form-control"  placeholder="Usuario" id="user">
